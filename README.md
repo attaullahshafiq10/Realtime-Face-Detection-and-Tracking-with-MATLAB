@@ -11,4 +11,4 @@ References:
 Viola, Paul A. and Jones, Michael J. "Rapid Object Detection using a Boosted Cascade of Simple Features", IEEE CVPR, 2001.
 Zdenek Kalal, Krystian Mikolajczyk and Jiri Matas. Forward-Backward Error: Automatic Detection of Tracking Failures. International Conference on Pattern Recognition, 2010
 
-#ComputerVision 
+#ComputerVision #ObjectDetection #Realtime_Face_Detection_and_Tracking
